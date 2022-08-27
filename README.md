@@ -1,2 +1,2 @@
 # Popoye-foods
-android application created during my android training(internshala).
+Android application created during my android training(internshala).
